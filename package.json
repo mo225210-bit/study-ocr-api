@@ -1,0 +1,10 @@
+
+{
+  "name": "homework-ocr-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "tencentcloud-sdk-nodejs-ocr": "^4.0.0"
+  }
+}
