@@ -1,10 +1,10 @@
-
 {
-  "name": "homework-ocr-api",
+  "name": "study-ocr-api",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "dependencies": {
-    "tencentcloud-sdk-nodejs-ocr": "^4.1.321"
+  "description": "作业纸文字识别接口（腾讯云 OCR，部署在 EdgeOne Pages）",
+  "scripts": {
+    "start": "node local-test.mjs"
   }
 }

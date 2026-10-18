@@ -1,0 +1,11 @@
+{
+  "name": "study-ocr-api",
+  "outputDirectory": "./",
+  "nodeVersion": "22.11.0",
+  "cloudFunctions": {
+    "nodejs": {
+      "maxDuration": 30,
+      "mainlandRegions": ["ap-guangzhou"]
+    }
+  }
+}
